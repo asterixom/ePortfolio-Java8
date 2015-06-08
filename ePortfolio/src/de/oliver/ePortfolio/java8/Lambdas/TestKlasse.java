@@ -1,4 +1,4 @@
-package de.oliver.ePortfolio.Lambdas;
+package de.oliver.ePortfolio.java8.Lambdas;
 
 import java.util.function.Consumer;
 

@@ -1,4 +1,4 @@
-package de.oliver.ePortfolio.StampedLocks;
+package de.oliver.ePortfolio.java8.StampedLocks;
 
 import java.util.ArrayList;
 import java.util.concurrent.locks.StampedLock;
